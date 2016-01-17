@@ -1,2 +1,2 @@
-print "Hello World"
-print "another hello"
+print 'Hello World'
+print 'another hello'
